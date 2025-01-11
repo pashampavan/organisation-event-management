@@ -21,5 +21,17 @@ git clone https://github.com/pashampavan/organisation-event-management.git
 ```bash
 cd Task Management
 ```
+```bash
+npm i
+```
+```bash
+nodemon index.js
+```
+```bash
+cd task-management
+```
+```bash
+npm start
+```
 
 

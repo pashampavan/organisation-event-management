@@ -1,9 +1,7 @@
-# Project Name
+# Organisation-Event-Management
 
 ## Description
-A brief description of your project. For example:
-This project includes a Node.js server and a React frontend application. The server handles backend logic, while the React app manages the user interface.
-
+This is MERN stack project to manage events,tasks and attendees in an organisation.
 ---
 
 ## Prerequisites
@@ -17,3 +15,7 @@ Ensure you have the following installed on your system:
 
 ### Clone the Repository
 ```bash
+git clone https://github.com/pashampavan/organisation-event-management.git
+cd Task Management
+
+

@@ -16,6 +16,10 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 ```bash
 git clone https://github.com/pashampavan/organisation-event-management.git
+```
+
+```bash
 cd Task Management
+```
 
 

@@ -21,11 +21,11 @@ git clone https://github.com/pashampavan/organisation-event-management.git
 ```bash
 cd Task Management
 ```
-### installs all required dependencies to run server
+### Installs all required dependencies to run server
 ```bash
 npm i
 ```
-### start node.js server
+### Start node.js server
 ```bash
 nodemon index.js
 ```
@@ -33,11 +33,11 @@ nodemon index.js
 cd task-management
 ```
 ### 
-### installs all required dependencies to run react.js frontend webapp
+### Installs all required dependencies to run react.js frontend webapp
 ```bash
 npm i
 ```
-### start the react.js frontend server
+### Start the react.js frontend server
 ```bash
 npm start
 ```

@@ -31,6 +31,10 @@ nodemon index.js
 cd task-management
 ```
 ```bash
+npm i
+```
+```
+```bash
 npm start
 ```
 

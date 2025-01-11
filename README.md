@@ -1,7 +1,7 @@
 # Organisation-Event-Management
 
 ## Description
-This is MERN stack project to manage events,tasks and attendees in an organisation.
+This is MERN stack project to manage events,tasks,attendees and more in an organisation.
 ---
 
 ## Prerequisites

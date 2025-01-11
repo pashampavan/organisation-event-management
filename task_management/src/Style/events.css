@@ -1,0 +1,19 @@
+#events
+{  
+    display: flex;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    gap:10px 10px;
+    align-content:space-around;
+}
+#events .thumb
+{
+    width: 30%;
+}
+@media only screen and (max-width: 798px) {
+    
+    #events .thumb
+    {
+        width: 100%;
+    }
+}

@@ -30,7 +30,7 @@ npm i
 nodemon index.js
 ```
 ```bash
-cd task-management
+cd task_management
 ```
 ### 
 ### Installs all required dependencies to run react.js frontend webapp
